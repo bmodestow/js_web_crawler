@@ -1,0 +1,13 @@
+{
+  "name": "js_web_crawler",
+  "version": "1.0.0",
+  "description": "A JS web crawler",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "modevto",
+  "license": "ISC"
+}
